@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Muzeum.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Muzeum.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Muzeum.Common.dll": {}
+        }
+      },
+      "Muzeum.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Muzeum.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Muzeum.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Muzeum.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Muzeum.Common/1.0.0": {
+      "type": "project",
+      "path": "../Muzeum.Common/Muzeum.Common.csproj",
+      "msbuildProject": "../Muzeum.Common/Muzeum.Common.csproj"
+    },
+    "Muzeum.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Muzeum.Domain/Muzeum.Domain.csproj",
+      "msbuildProject": "../Muzeum.Domain/Muzeum.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Muzeum.Common >= 1.0.0",
+      "Muzeum.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Marko\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Studia\\zArchiwum\\zSemester 4 moj\\Programowanie 2\\Labobabo\\Projekty\\Z9\\Muzeum\\Muzeum.IServices\\Muzeum.IServices.csproj",
+      "projectName": "Muzeum.IServices",
+      "projectPath": "F:\\Studia\\zArchiwum\\zSemester 4 moj\\Programowanie 2\\Labobabo\\Projekty\\Z9\\Muzeum\\Muzeum.IServices\\Muzeum.IServices.csproj",
+      "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
+      "outputPath": "F:\\Studia\\zArchiwum\\zSemester 4 moj\\Programowanie 2\\Labobabo\\Projekty\\Z9\\Muzeum\\Muzeum.IServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\Studia\\zArchiwum\\zSemester 4 moj\\Programowanie 2\\Labobabo\\Projekty\\Z9\\Muzeum\\Muzeum.Common\\Muzeum.Common.csproj": {
+              "projectPath": "F:\\Studia\\zArchiwum\\zSemester 4 moj\\Programowanie 2\\Labobabo\\Projekty\\Z9\\Muzeum\\Muzeum.Common\\Muzeum.Common.csproj"
+            },
+            "F:\\Studia\\zArchiwum\\zSemester 4 moj\\Programowanie 2\\Labobabo\\Projekty\\Z9\\Muzeum\\Muzeum.Domain\\Muzeum.Domain.csproj": {
+              "projectPath": "F:\\Studia\\zArchiwum\\zSemester 4 moj\\Programowanie 2\\Labobabo\\Projekty\\Z9\\Muzeum\\Muzeum.Domain\\Muzeum.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

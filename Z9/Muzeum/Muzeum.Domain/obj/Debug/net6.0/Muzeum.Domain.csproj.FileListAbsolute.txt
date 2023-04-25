@@ -1,0 +1,90 @@
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\refint\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Domain\obj\Debug\net6.0\ref\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\refint\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Domain\obj\Debug\net6.0\ref\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\refint\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Domain\obj\Debug\net6.0\ref\Muzeum.Domain.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.deps.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.AssemblyReference.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfoInputs.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfo.cs
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CopyComplete
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\refint\Muzeum.Domain.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\ref\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\refint\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\ref\Muzeum.Domain.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.deps.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Domain.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\bin\Debug\net6.0\Muzeum.Common.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.AssemblyReference.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfoInputs.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.AssemblyInfo.cs
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CoreCompileInputs.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.csproj.CopyComplete
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\refint\Muzeum.Domain.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\Muzeum.Domain.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Domain\obj\Debug\net6.0\ref\Muzeum.Domain.dll

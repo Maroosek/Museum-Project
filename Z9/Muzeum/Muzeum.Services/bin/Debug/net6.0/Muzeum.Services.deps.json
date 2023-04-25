@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Muzeum.Services/1.0.0": {
+        "dependencies": {
+          "Muzeum.Domain": "1.0.0",
+          "Muzeum.IData": "1.0.0",
+          "Muzeum.IServices": "1.0.0"
+        },
+        "runtime": {
+          "Muzeum.Services.dll": {}
+        }
+      },
+      "Muzeum.Common/1.0.0": {
+        "runtime": {
+          "Muzeum.Common.dll": {}
+        }
+      },
+      "Muzeum.Domain/1.0.0": {
+        "dependencies": {
+          "Muzeum.Common": "1.0.0"
+        },
+        "runtime": {
+          "Muzeum.Domain.dll": {}
+        }
+      },
+      "Muzeum.IData/1.0.0": {
+        "dependencies": {
+          "Muzeum.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Muzeum.IData.dll": {}
+        }
+      },
+      "Muzeum.IServices/1.0.0": {
+        "dependencies": {
+          "Muzeum.Common": "1.0.0",
+          "Muzeum.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Muzeum.IServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Muzeum.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Muzeum.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Muzeum.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Muzeum.IData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Muzeum.IServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

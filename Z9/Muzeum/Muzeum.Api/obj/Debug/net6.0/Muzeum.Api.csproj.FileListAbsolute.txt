@@ -1,0 +1,396 @@
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.exe
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.runtimeconfig.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\scopedcss\bundle\Muzeum.Api.styles.css
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\refint\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\ref\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.exe
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.runtimeconfig.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\scopedcss\bundle\Muzeum.Api.styles.css
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\refint\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Api\obj\Debug\net6.0\ref\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.exe
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.runtimeconfig.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\scopedcss\bundle\Muzeum.Api.styles.css
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\refint\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Api\obj\Debug\net6.0\ref\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.exe
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.runtimeconfig.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\scopedcss\bundle\Muzeum.Api.styles.css
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\refint\Muzeum.Api.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\ref\Muzeum.Api.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.exe
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.deps.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.runtimeconfig.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.AssemblyReference.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfoInputs.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfo.cs
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CoreCompileInputs.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\scopedcss\bundle\Muzeum.Api.styles.css
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CopyComplete
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\refint\Muzeum.Api.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.genruntimeconfig.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\ref\Muzeum.Api.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\appsettings.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.exe
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.deps.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.runtimeconfig.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Api.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.Data.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\ZstdNet.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Common.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IData.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.IServices.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Services.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\bin\Debug\net6.0\Muzeum.Domain.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.AssemblyReference.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfoInputs.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.AssemblyInfo.cs
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CoreCompileInputs.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\scopedcss\bundle\Muzeum.Api.styles.css
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.csproj.CopyComplete
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\refint\Muzeum.Api.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\Muzeum.Api.genruntimeconfig.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Api\obj\Debug\net6.0\ref\Muzeum.Api.dll

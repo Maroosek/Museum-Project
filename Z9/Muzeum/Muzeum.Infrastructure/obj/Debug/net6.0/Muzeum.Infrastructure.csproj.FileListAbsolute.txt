@@ -1,0 +1,36 @@
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\refint\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\ref\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\refint\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\ref\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\bin\Debug\net6.0\Muzeum.Infrastructure.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\refint\Muzeum.Infrastructure.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\Muzeum.Infrastructure.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Infrastructure\obj\Debug\net6.0\ref\Muzeum.Infrastructure.dll

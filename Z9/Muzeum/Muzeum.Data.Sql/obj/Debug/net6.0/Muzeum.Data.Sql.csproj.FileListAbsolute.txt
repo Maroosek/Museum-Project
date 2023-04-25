@@ -1,0 +1,114 @@
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\refint\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\ref\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z3\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\refint\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\ref\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\refint\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z8 Fix\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\ref\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.deps.json
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CopyComplete
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\refint\Muzeum.Data.Sql.dll
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\Marko\Desktop\Studia\Programowanie 2\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\ref\Muzeum.Data.Sql.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.deps.json
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfo.cs
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CopyComplete
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\refint\Muzeum.Data.Sql.dll
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.pdb
+C:\Users\koste\OneDrive\Pulpit\123\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\ref\Muzeum.Data.Sql.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.deps.json
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Data.Sql.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.IData.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Common.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\bin\Debug\net6.0\Muzeum.Domain.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.AssemblyReference.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfoInputs.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.AssemblyInfo.cs
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CoreCompileInputs.cache
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.csproj.CopyComplete
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\refint\Muzeum.Data.Sql.dll
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\Muzeum.Data.Sql.pdb
+E:\Studia\zArchiwum\zSemester 4 moj\Programowanie 2\Labobabo\Projekty\Z9\Muzeum\Muzeum.Data.Sql\obj\Debug\net6.0\ref\Muzeum.Data.Sql.dll
